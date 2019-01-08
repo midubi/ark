@@ -1,6 +1,5 @@
-# goark
-GoArk
-Goark The fantastic, extensible, minimalist Go web library for Golang
+# ark
+The fantastic, extensible, minimalist Go web library for Golang
 
 echo "# goark" >> README.md
 git init
